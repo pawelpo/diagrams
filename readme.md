@@ -19,7 +19,7 @@
 
 ⬇️ **DOWNLOAD:** [PNG](https://github.com/pawelpo/diagrams/blob/main/Microsoft%20Fabric%20and%20Snowflake%20Interoperability/Iceberg%20-%20Fabric%20to%20Snowflake.png) | [EXCALIDRAW](https://github.com/pawelpo/diagrams/blob/main/Microsoft%20Fabric%20and%20Snowflake%20Interoperability/Iceberg%20-%20Snowflake%20to%20Fabric.excalidraw)
 
-<img src="https://github.com/pawelpo/diagrams/blob/main/Microsoft%20Fabric%20and%20Snowflake%20Interoperability/Iceberg%20-%20Fabric%20to%20Snowflake.excalidraw" height="400"/>
+<img src="https://github.com/pawelpo/diagrams/blob/main/Microsoft%20Fabric%20and%20Snowflake%20Interoperability/Iceberg%20-%20Fabric%20to%20Snowflake.png" height="400"/>
 
 # [2024-12-18] [Microsoft Fabric - Open Mirroring](https://github.com/pawelpo/diagrams/tree/main/Microsoft%20Fabric%20-%20Open%20Mirroring)
 
