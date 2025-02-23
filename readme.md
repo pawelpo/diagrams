@@ -17,9 +17,13 @@
 
 ## Fabric to Snowflake
 
-⬇️ **DOWNLOAD:** [PNG](https://github.com/pawelpo/diagrams/blob/main/Microsoft%20Fabric%20and%20Snowflake%20Interoperability/Iceberg%20-%20Fabric%20to%20Snowflake.png) | [EXCALIDRAW](https://github.com/pawelpo/diagrams/blob/main/Microsoft%20Fabric%20and%20Snowflake%20Interoperability/Iceberg%20-%20Snowflake%20to%20Fabric.excalidraw)
+⬇️ **DOWNLOAD:** [PNG](https://github.com/pawelpo/diagrams/blob/main/Microsoft%20Fabric%20and%20Snowflake%20Interoperability/Iceberg%20-%20Fabric%20to%20Snowflake.png) | [EXCALIDRAW](https://github.com/pawelpo/diagrams/blob/main/Microsoft%20Fabric%20and%20Snowflake%20Interoperability/Iceberg%20-%20Fabric%20to%20Snowflakeexcalidraw)
 
 <img src="https://github.com/pawelpo/diagrams/blob/main/Microsoft%20Fabric%20and%20Snowflake%20Interoperability/Iceberg%20-%20Fabric%20to%20Snowflake.png" height="400"/>
+
+⬇️ **DOWNLOAD:** [PNG](https://github.com/pawelpo/diagrams/blob/main/Microsoft%20Fabric%20and%20Snowflake%20Interoperability/Fabric%20to%20Snowflake.png) | [EXCALIDRAW](https://github.com/pawelpo/diagrams/blob/main/Microsoft%20Fabric%20and%20Snowflake%20Interoperability/%20-%20Fabric%20to%20Snowflake.excalidraw)
+
+<img src="https://github.com/pawelpo/diagrams/blob/main/Microsoft%20Fabric%20and%20Snowflake%20Interoperability/Fabric%20to%20Snowflake.png" height="400"/>
 
 # [2024-12-18] [Microsoft Fabric - Open Mirroring](https://github.com/pawelpo/diagrams/tree/main/Microsoft%20Fabric%20-%20Open%20Mirroring)
 
